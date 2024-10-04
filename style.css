@@ -145,6 +145,7 @@ p {
     background: linear-gradient(to right, #1db954, #191414);
     padding: 15px;
     margin: 10px;
+    color:white;
 }
 .plan button:hover{
     background: linear-gradient(to right,#191414, #1db954);
